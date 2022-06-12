@@ -31,3 +31,4 @@ for (let i = 1; i <= imageNumber; i++) {
 	});
 	console.log("creating image", +i);
 }
+//test
